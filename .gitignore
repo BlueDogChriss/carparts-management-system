@@ -1,6 +1,8 @@
 .DS_Store
 node_modules
 /dist
+carparts-management-system-7e061be77664.json*
+serviceAccountKey.json*
 
 
 # local env files
