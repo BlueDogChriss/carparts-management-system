@@ -1,0 +1,10 @@
+{
+    "data": [
+        {
+        "code": 100,
+        "name": "test",
+        "category": "test",
+        "quantity": 100
+        }
+    ]
+}
