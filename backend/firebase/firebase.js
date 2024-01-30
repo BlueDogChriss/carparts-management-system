@@ -5,7 +5,7 @@ const serviceAccount = require('./serviceAccountKey.json');
 
 admin.initializeApp( {
   credential: admin.credential.cert(serviceAccount),
-  databaseURL: "https://carparts-management-system.firebaseio.com"
+  databaseURL: "FIREBASE DB URL HERE"
 });
 
 let db = admin.firestore();
